@@ -18,7 +18,8 @@ pnpm-debug.log*
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw
 
 # Ignore local files 
 deploy.txt
+nginx.conf
