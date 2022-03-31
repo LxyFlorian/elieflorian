@@ -5,7 +5,7 @@
     <img alt="Landing under construction" src="../assets/landing.png">
     <h3>Liens</h3>
     <ul>
-      <li><a href="https://twitter.com/lxyflorian" target="_blank" rel="noopener">Twitter</a></li>
+      <li><a href="https://twitter.com/elienairo" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://github.com/lxyflorian" target="_blank" rel="noopener">Github</a></li>
     </ul>
   </div>
@@ -24,6 +24,7 @@ export default {
 <style scoped>
 h1 {
   margin: 40px 0 0;
+  font-weight: 700;
 }
 ul {
   list-style-type: none;
